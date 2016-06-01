@@ -1,0 +1,1 @@
+include ':app', ':viewAnimLib', ':simple'
